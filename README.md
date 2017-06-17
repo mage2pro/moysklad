@@ -25,12 +25,12 @@ You can use it for free for the testing puproses only.
 Please read the [testing policy](https://mage2.pro/t/2590) before installation.
 
 ## Support
-- [The extension's **forum** branch](https://mage2.pro/c/extensions/moysklad).
+- [The extension's **forum** branch](https://mage2.pro).
 - [Where and how to report a Mage2.PRO extension's issue?](https://mage2.pro/t/2034)
 - I also provide a **[generic Magento 2 support](https://mage2.pro/t/755)** and [Magento 2 installation service](https://mage2.pro/t/748).
 
 ## Want to be notified about the extension's updates?
-- [Subscribe](https://mage2.pro/t/2540) to the extension's [forum branch](https://mage2.pro/c/extensions/moysklad).
+- [Subscribe](https://mage2.pro/t/2540) to the extension's [forum branch](https://mage2.pro).
 - Subscribe to my [Twitter](https://twitter.com/mage2_pro) and [YouTube](https://www.youtube.com/channel/UCvlDAZuj01_b92pzRi69LeQ) channels.
 
 ## Need a new feature?
