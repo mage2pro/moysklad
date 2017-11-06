@@ -1,7 +1,7 @@
 {
 	"name": "mage2pro/moysklad"
 	,"version": "0.0.1"
-	,"description": "Модуль Magento 2 для интеграции с МойСклад / The «МойСклад» extension for Magento 2"
+	,"description": "МойСклад integration with Magento 2"
 	,"type": "magento2-module"
 	,"homepage": "https://mage2.pro/c/extensions/moysklad"
 	,"license": "proprietary"
