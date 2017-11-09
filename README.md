@@ -1,4 +1,4 @@
-The extension integrates your Magento 2 store with the **[МойСклад](https://www.moysklad.ru)** ERP software.  
+The extension integrates your Magento 2 based webstore with the **[МойСклад](https://www.moysklad.ru)** ERP software.  
 Этот модуль позволит Вашему работающему на Magento 2 интернет-магазину обмениваться данными (синхронизироваться) с сервисом [МойСклад](https://www.moysklad.ru).  
 
 
